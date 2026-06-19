@@ -1,6 +1,6 @@
 # mlrs — Machine Learning with Rust (2nd Edition)
 
-Companion project for the book. `mlrs` is a single, progressively evolving
+This is the sample project for the book. `mlrs` is a single, progressively evolving
 Cargo workspace that models a retail intelligence platform built on the
 Online Retail II dataset.
 
